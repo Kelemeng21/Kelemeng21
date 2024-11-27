@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kelemeng21
 - 👀 I’m interested in playing
-- 🌱 I’m currently learning HTML CSS and C#
+- 🌱 I’m currently learning HTML CSS JS and C#
 - 💞️ I’m looking to collaborate on colleagues
 - 📫 How to reach me gaborkelemen21@gmail.com
 
