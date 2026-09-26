@@ -2,7 +2,7 @@
 
 I build web apps and dashboards, and lately I've been pulling data out of APIs and turning it into something you can read at a glance.
 
-I'm a junior developer from Hungary, working mostly in C#, JavaScript and TypeScript. {{Mit keres: pozíció, távoli / hibrid / iroda}}
+I'm a junior developer from Hungary, working mostly in C#, JavaScript and TypeScript.
 
 ### What you can see here
 
