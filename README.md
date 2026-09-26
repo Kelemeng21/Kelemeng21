@@ -1,7 +1,8 @@
 Gábor Kelemen
+
 I build web apps and dashboards, and lately I've been pulling data out of APIs and turning it into something you can read at a glance.
 
-I'm a junior developer from Hungary, working mostly in C#, JavaScript and TypeScript. {{Mit keres: pozíció, távoli / hibrid / iroda}}
+I'm a junior developer from Hungary, working mostly in C#, JavaScript and TypeScript.
 
 What you can see here
 DevPulse is a GitHub analytics dashboard in Next.js, React and TypeScript. Type in a username and it shows the repositories, the language split, a year of commit activity as a heatmap, and a side-by-side comparison of two developers. Four API routes of my own sit between the browser and GitHub: repositories and languages come from the REST API, the heatmap and the comparison from GraphQL. The token stays on the server, the client never sees it.
