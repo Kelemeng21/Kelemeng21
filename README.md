@@ -18,5 +18,5 @@ Stack
 C#, ASP.NET Core, Entity Framework, TypeScript, JavaScript, Tailwind CSS, PHP, MySQL, HTML/CSS, Unity, Git, REST and GraphQL APIs
 
 Contact
-{{gaborkelemen21@gmail.com}}
+gaborkelemen21@gmail.com
 
